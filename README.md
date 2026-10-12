@@ -8,16 +8,16 @@ Right Now I'm building task-tracking-system And learning backend concept by impl
 **Task Tracking System**
 - ✅Basic crud
 - ✅ Api Handling
-- 🔄 DTO Implementation
-- ⏳ Exception handling
+- ✅ DTO Implementation
+- ✅Exception handling
 - ⏳ Validation
 - ⏳ Pagination
 - ⏳ Filtering & Sorting
 
 ## 🚀 Project Roadmap
-- 🔄 DTO
+- ✅ DTO
 - ⏳ Validation
-- ⏳ Exception Handling
+- ✅ Exception Handling
 - ⏳ Pagination
 - ⏳ Filtering
 - ⏳ Sorting
