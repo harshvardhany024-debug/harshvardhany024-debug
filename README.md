@@ -10,13 +10,13 @@ Right Now I'm building task-tracking-system And learning backend concept by impl
 - ✅ Api Handling
 - ✅ DTO Implementation
 - ✅Exception handling
-- ⏳ Validation
+- ✅ Validation
 - ⏳ Pagination
 - ⏳ Filtering & Sorting
 
 ## 🚀 Project Roadmap
 - ✅ DTO
-- ⏳ Validation
+- ✅Validation
 - ✅ Exception Handling
 - ⏳ Pagination
 - ⏳ Filtering
@@ -26,17 +26,4 @@ Right Now I'm building task-tracking-system And learning backend concept by impl
 - ⏳ Concurrency
 - ⏳ Redis
 - ⏳ Logging
-<!--
-**harshvardhany024-debug/harshvardhany024-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
